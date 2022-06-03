@@ -6,7 +6,7 @@ import pandas as pd
 
 # ler todos os arquivos da pasta: 'Caminho/*.txt'
 
-CaminhoDadoBruto = 'Documents/Projetos/OrlaSemLixo/Linha1/*.txt'
+CaminhoDadoBruto = 'Documents/Caminho/*.txt'
 
 j = 0
 for i in glob.glob(CaminhoDadoBruto, recursive = True):
