@@ -1,2 +1,3 @@
-# Abrindo Arquivos em loop
-Bloco basico para abrir arquivos em loop
+# Gráfico usando Vírgula no Separador Decimal
+
+Exemplo de gráfico usando vírgula no separador decimal.
